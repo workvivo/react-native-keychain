@@ -1,8 +1,8 @@
 {
   "name": "react-native-keychain",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "Keychain Access for React Native",
-  "main": "index.js",
+  "main": "main.js",
   "files": [
     "android",
     "!android/src/test",
